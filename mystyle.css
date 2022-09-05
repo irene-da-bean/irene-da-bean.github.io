@@ -1,0 +1,65 @@
+mystyle.css
+
+body {
+
+		background-color: #F4F1DE;
+	}
+
+	h1 {
+		color: #3D405B;
+		font-family: avenir, sans-serif;
+		font-size: 300%;
+		text-align: center;
+	}
+
+	h2 {
+		color: #F2CC8F;
+		font-family: avenir, sans-serif;
+		font-size: 160%;
+		text-align: center;
+
+	}
+
+	h3 {
+		color: #3D405B;
+		font-family: avenir, sans-serif;
+		font-size: 200%;
+		background: #F2CC8F;
+		text-align: center;
+	}
+
+	p {
+		color: #001219;
+		font-family: avenir, sans-serif;
+		font-size: 120%;
+		background: white;
+		text-align: center;
+	}
+
+	a:link, a:visited {
+		color: #3D405B;
+		text-decoration: none;
+		font-family: avenir,sans-serif;
+		background-color: #F2CC8F;
+		font-size: 120%;
+	}
+
+
+	a:hover, a:active {
+		color: #639FAB;
+		text-decoration: none;
+		font-family: avenir,sans-serif;
+		background-color: #F2CC8F;
+		font-size: 120%;
+	}
+
+	.index {
+		color: #3D405B;
+		text-decoration: none;
+		font-family: avenir,sans-serif;
+		background-color: #F2CC8F;
+		font-size: 200%;
+	}
+
+
+
